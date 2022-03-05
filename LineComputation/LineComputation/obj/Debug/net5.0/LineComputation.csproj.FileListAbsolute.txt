@@ -1,0 +1,16 @@
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\bin\Debug\net5.0\LineComputation.exe
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\bin\Debug\net5.0\LineComputation.deps.json
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\bin\Debug\net5.0\LineComputation.runtimeconfig.json
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\bin\Debug\net5.0\LineComputation.runtimeconfig.dev.json
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\bin\Debug\net5.0\LineComputation.dll
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\bin\Debug\net5.0\LineComputation.pdb
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\obj\Debug\net5.0\LineComputation.csproj.AssemblyReference.cache
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\obj\Debug\net5.0\LineComputation.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\obj\Debug\net5.0\LineComputation.AssemblyInfoInputs.cache
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\obj\Debug\net5.0\LineComputation.AssemblyInfo.cs
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\obj\Debug\net5.0\LineComputation.csproj.CoreCompileInputs.cache
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\obj\Debug\net5.0\LineComputation.dll
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\obj\Debug\net5.0\refint\LineComputation.dll
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\obj\Debug\net5.0\LineComputation.pdb
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\obj\Debug\net5.0\LineComputation.genruntimeconfig.cache
+D:\.net\Rpf-120-day8-Pdf2-Assingmnet\LineComputation\LineComputation\obj\Debug\net5.0\ref\LineComputation.dll
