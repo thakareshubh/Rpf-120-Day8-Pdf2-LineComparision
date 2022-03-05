@@ -1,0 +1,16 @@
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\bin\Debug\net5.0\ComparisionOfTwoLine.exe
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\bin\Debug\net5.0\ComparisionOfTwoLine.deps.json
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\bin\Debug\net5.0\ComparisionOfTwoLine.runtimeconfig.json
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\bin\Debug\net5.0\ComparisionOfTwoLine.runtimeconfig.dev.json
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\bin\Debug\net5.0\ComparisionOfTwoLine.dll
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\bin\Debug\net5.0\ComparisionOfTwoLine.pdb
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\obj\Debug\net5.0\ComparisionOfTwoLine.csproj.AssemblyReference.cache
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\obj\Debug\net5.0\ComparisionOfTwoLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\obj\Debug\net5.0\ComparisionOfTwoLine.AssemblyInfoInputs.cache
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\obj\Debug\net5.0\ComparisionOfTwoLine.AssemblyInfo.cs
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\obj\Debug\net5.0\ComparisionOfTwoLine.csproj.CoreCompileInputs.cache
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\obj\Debug\net5.0\ComparisionOfTwoLine.dll
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\obj\Debug\net5.0\refint\ComparisionOfTwoLine.dll
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\obj\Debug\net5.0\ComparisionOfTwoLine.pdb
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\obj\Debug\net5.0\ComparisionOfTwoLine.genruntimeconfig.cache
+D:\.net\ComparisionOfTwoLine\ComparisionOfTwoLine\obj\Debug\net5.0\ref\ComparisionOfTwoLine.dll
