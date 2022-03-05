@@ -1,0 +1,16 @@
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\bin\Debug\net5.0\CheckEqualityOfTwoLines.exe
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\bin\Debug\net5.0\CheckEqualityOfTwoLines.deps.json
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\bin\Debug\net5.0\CheckEqualityOfTwoLines.runtimeconfig.json
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\bin\Debug\net5.0\CheckEqualityOfTwoLines.runtimeconfig.dev.json
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\bin\Debug\net5.0\CheckEqualityOfTwoLines.dll
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\bin\Debug\net5.0\CheckEqualityOfTwoLines.pdb
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\obj\Debug\net5.0\CheckEqualityOfTwoLines.csproj.AssemblyReference.cache
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\obj\Debug\net5.0\CheckEqualityOfTwoLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\obj\Debug\net5.0\CheckEqualityOfTwoLines.AssemblyInfoInputs.cache
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\obj\Debug\net5.0\CheckEqualityOfTwoLines.AssemblyInfo.cs
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\obj\Debug\net5.0\CheckEqualityOfTwoLines.csproj.CoreCompileInputs.cache
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\obj\Debug\net5.0\CheckEqualityOfTwoLines.dll
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\obj\Debug\net5.0\refint\CheckEqualityOfTwoLines.dll
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\obj\Debug\net5.0\CheckEqualityOfTwoLines.pdb
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\obj\Debug\net5.0\CheckEqualityOfTwoLines.genruntimeconfig.cache
+D:\.net\CheckEqualityOfTwoLines\CheckEqualityOfTwoLines\obj\Debug\net5.0\ref\CheckEqualityOfTwoLines.dll
