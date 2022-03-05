@@ -1,0 +1,16 @@
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\bin\Debug\net5.0\LenghtOfLineBetweenPoint.exe
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\bin\Debug\net5.0\LenghtOfLineBetweenPoint.deps.json
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\bin\Debug\net5.0\LenghtOfLineBetweenPoint.runtimeconfig.json
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\bin\Debug\net5.0\LenghtOfLineBetweenPoint.runtimeconfig.dev.json
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\bin\Debug\net5.0\LenghtOfLineBetweenPoint.dll
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\bin\Debug\net5.0\LenghtOfLineBetweenPoint.pdb
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\obj\Debug\net5.0\LenghtOfLineBetweenPoint.csproj.AssemblyReference.cache
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\obj\Debug\net5.0\LenghtOfLineBetweenPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\obj\Debug\net5.0\LenghtOfLineBetweenPoint.AssemblyInfoInputs.cache
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\obj\Debug\net5.0\LenghtOfLineBetweenPoint.AssemblyInfo.cs
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\obj\Debug\net5.0\LenghtOfLineBetweenPoint.csproj.CoreCompileInputs.cache
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\obj\Debug\net5.0\LenghtOfLineBetweenPoint.dll
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\obj\Debug\net5.0\refint\LenghtOfLineBetweenPoint.dll
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\obj\Debug\net5.0\LenghtOfLineBetweenPoint.pdb
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\obj\Debug\net5.0\LenghtOfLineBetweenPoint.genruntimeconfig.cache
+D:\.net\LenghtOfLineBetweenPoint\LenghtOfLineBetweenPoint\obj\Debug\net5.0\ref\LenghtOfLineBetweenPoint.dll
